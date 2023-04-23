@@ -12,3 +12,5 @@ Customizable model architecture and hyperparameters
 Compatible with various image-caption datasets
 Simple and easy-to-understand code
 To use this code, preprocess your dataset (images and captions), split it into training and validation sets, and train the model using the provided code. You can adjust the hyperparameters and model architecture as needed to improve the performance of your Image Caption Generator.
+
+I will update this as we go
