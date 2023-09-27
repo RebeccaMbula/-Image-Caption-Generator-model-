@@ -1,4 +1,6 @@
 # -Image-Caption-Generator-model-
+
+
 a simple Image Caption Generator model using TensorFlow and Keras
 This repository contains the code for an Image Caption Generator, an AI-based project that uses deep learning techniques to automatically generate captions for images. The model architecture consists of a pre-trained VGG16 Convolutional Neural Network (CNN) for feature extraction from images, and an LSTM-based Recurrent Neural Network (RNN) for generating captions based on the extracted features.
 
